@@ -25,7 +25,7 @@
 
     var settings = $.extend({
       delta: 5,
-      speed: 250,
+      speed: 500,
       shadow: false
     }, options);
 
